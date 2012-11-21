@@ -1,9 +1,13 @@
-在中国有那些公司那些项目用到了Node.js。
+在中国有那些公司那些项目用到了Node.js。欢迎各位添加项目，格式按公司，再按项目缩进即可。
 ==========
+<<<<<<< HEAD
 欢迎各位添加项目，格式按公司，再按项目缩进即可。
 - CNodeJS社区
   - [Node Club](http://cnodejs.org)，国内最活跃的Node.js社区
   - [NAE](http://cnodejs.net)，Node.js App Engine
+=======
+
+>>>>>>> parent of 9f66bb7... Update README.md
 - 淘宝网
   - [淘宝指数](http://shu.taobao.com)，应用了全JS堆栈技术
   - [数据魔方](http://mofang.taobao.com)，替换PHP，应用全JS堆栈技术
