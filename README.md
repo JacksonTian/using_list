@@ -18,6 +18,9 @@
   - 新浪研发中心利用Node实现MySQL代理层
 - [花瓣网](http://huaban.com/)
 - [美丽说](http://www.meilishuo.com/)
+- [Clicki统计](http://clicki.cn/)
+  - 动态JS脚本下发
+  - 数据采集接口
 
 ## 相关链接
 - [推荐模块列表](https://github.com/TBEDP/recommended-modules)
