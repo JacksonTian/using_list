@@ -21,6 +21,8 @@
 - [Clicki统计](http://clicki.cn/)
   - 动态JS脚本下发
   - 数据采集接口
+- [启航手游]
+  - 棋牌游戏.斗地主(http://ddz.dapai.in) ,Node.JS+Socket.io+Mongodb+Ali Cloud
 
 ## 相关链接
 - [推荐模块列表](https://github.com/TBEDP/recommended-modules)
