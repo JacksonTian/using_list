@@ -24,6 +24,8 @@
 - [咕咚网](http://www.codoon.com)
   - 咕咚运动＋ app的消息系统
   - 站内用户邮件批量发送
+- [启航手游]
+  - 棋牌游戏。[斗地主](http://ddz.dapai.in), Node.js + Socket.io + MongoDB + Ali Cloud
 
 ## 相关链接
 - [推荐模块列表](https://github.com/TBEDP/recommended-modules)
